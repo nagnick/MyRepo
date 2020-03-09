@@ -18,6 +18,7 @@ public class Hello {
         System.out.println("Wow! I've always wanted to go to " + response + ". Thanks for chatting with me. Bye!");
         //ask for location and print sentence as well as a goodbye
         // had to use next instead of nextline because zybooks uses spacebar instead of enter when inputting test cases
-
+// hi
+        
 }
 }
